@@ -3,7 +3,7 @@ import random
 
 
 root = Tk()
-root.wm_iconbitmap("1.ico")
+#root.wm_iconbitmap("1.ico")
 root.title("Guess")
 
 
